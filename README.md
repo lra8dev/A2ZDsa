@@ -31,16 +31,15 @@ Following the structured curriculum from Striver's A2Z DSA Course, covering:
 
 ## 🔗 Resources
 
-### Primary Course
+### Primary Course/Sheet
 
 - 🎥 [Striver's A2Z DSA Course - YouTube Playlist](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - 📝 [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
 
 ### Additional Resources
 
-- 💻 [LeetCode Profile](https://leetcode.com/u/hey_lucky/) - Practice problems
-- 📖 [GeeksforGeeks](https://www.geeksforgeeks.org/) - Concept references
-- 🧠 [NeetCode](https://neetcode.io/) - Curated problem lists
+- [GeeksforGeeks Profile](https://www.geeksforgeeks.org/profile/lucky69)
+- [LeetCode Profile](https://leetcode.com/u/hey_lucky)
 
 ## 📊 Progress Tracking
 
@@ -48,6 +47,7 @@ Following the structured curriculum from Striver's A2Z DSA Course, covering:
 | ----------------------- | ------------ | -------------------------------------------------- |
 | Time & Space Complexity | ✅ Completed | [View Notes](1_time_and_space_complexity/index.md) |
 | Pattern Printing        | ✅ Completed | [View Notes](2_pattern_printing/index.md)          |
+| Basic Maths             | ✅ Completed | [View Notes](3_know_basic_maths/index.md)          |
 
 ## 📝 Daily Commitment
 
@@ -65,6 +65,6 @@ Feel free to follow my journey, suggest improvements, or share resources!
 ---
 
 **Started**: February 4, 2026  
-**Last Updated**: February 5, 2026
+**Last Updated**: February 6, 2026
 
 _"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie_
