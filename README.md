@@ -48,6 +48,7 @@ Following the structured curriculum from Striver's A2Z DSA Course, covering:
 | Time & Space Complexity | ✅ Completed | [View Notes](1_time_and_space_complexity/index.md) |
 | Pattern Printing        | ✅ Completed | [View Notes](2_pattern_printing/index.md)          |
 | Basic Maths             | ✅ Completed | [View Notes](3_know_basic_maths/index.md)          |
+| Basic Recursion         | ✅ Completed | [View Notes](4_basic_recursion/index.md)           |
 
 ## 📝 Daily Commitment
 
@@ -65,6 +66,6 @@ Feel free to follow my journey, suggest improvements, or share resources!
 ---
 
 **Started**: February 4, 2026  
-**Last Updated**: February 7, 2026
+**Last Updated**: February 9, 2026
 
 _"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie_
