@@ -49,6 +49,7 @@ Following the structured curriculum from Striver's A2Z DSA Course, covering:
 | Pattern Printing        | ✅ Completed | [View Notes](2_pattern_printing/index.md)          |
 | Basic Maths             | ✅ Completed | [View Notes](3_know_basic_maths/index.md)          |
 | Basic Recursion         | ✅ Completed | [View Notes](4_basic_recursion/index.md)           |
+| Basic HashMap           | ✅ Completed | [View Notes](5_basic_hashmap/index.md)             |
 
 ## 📝 Daily Commitment
 
@@ -66,6 +67,6 @@ Feel free to follow my journey, suggest improvements, or share resources!
 ---
 
 **Started**: February 4, 2026  
-**Last Updated**: February 9, 2026
+**Last Updated**: February 17, 2026
 
 _"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie_
